@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+       <item
+
+           android:id="@+id/Home"
+           android:title="Home"
+           android:icon="@drawable/ic_action_menu"
+
+        />
+        <item
+
+            android:id="@+id/Rest"
+            android:title="Rest"
+            android:icon="@drawable/ic_action_rest"
+
+            />
+
+
+        <item
+
+            android:id="@+id/Exercise"
+            android:title="Active"
+            android:icon="@drawable/ic_action_active"
+
+            />
+
+        <item
+
+            android:id="@+id/Play"
+            android:title="Play"
+            android:icon="@drawable/ic_action_play"
+
+            />
+
+        <item
+
+            android:id="@+id/Average"
+            android:title="Average"
+            android:icon="@drawable/ic_action_av"
+
+            />
+        <item
+
+            android:id="@+id/Sync"
+            android:title="Sync Fitbark"
+            android:icon="@drawable/ic_action_sync"
+
+            />
+        <item
+
+            android:id="@+id/Weight"
+            android:icon="@drawable/ic_action_settings"
+            android:title="Settings"
+
+            />
+
+
+
+    </group>
+
+
+
+
+
+</menu>
